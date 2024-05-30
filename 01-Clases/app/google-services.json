@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635594381300",
+    "project_id": "daks-swgr1-2024a",
+    "storage_bucket": "daks-swgr1-2024a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635594381300:android:d383d055ef9167c7a38ba1",
+        "android_client_info": {
+          "package_name": "com.example.a2024aswgr1daks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBoPD-k9AXFCxAbMAjRknTZRrcqh-J9GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
