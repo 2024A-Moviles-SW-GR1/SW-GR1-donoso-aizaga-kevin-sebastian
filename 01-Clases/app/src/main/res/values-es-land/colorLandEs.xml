@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2024ASwGr1DAKS</string>
+    <string name="saludo">Hola Pamela Villegas</string>
+    <color name="colorTexto">#FF00FF00</color>
+    <color name="background">#FFFF00FF</color>
+
+</resources>
